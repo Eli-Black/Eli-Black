@@ -1,3 +1,5 @@
+# Hi, I am Eli Black 
+
 # 💫 About Me:
 🔭 I’m currently working on Computer Science Degree<br>🌱 I’m currently learning about machine learning and neural networks <br>
 
