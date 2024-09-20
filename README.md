@@ -1,12 +1,15 @@
 # Hi, I am Eli Black 
 
 #  About Me:
-🔭I’m currently working on Computer Science Degree<br> I’m currently learning about machine learning and neural networks <br>
 
+Hello! I'm Elijah Black, a passionate programmer with experience in Java, Python, and C++. Currently, I'm exploring various programming projects and enhancing my skills in software development.
 
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I have a strong interest in working on innovative solutions, particularly in areas involving data processing and artificial intelligence.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Black&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm currently seeking opportunities to expand my knowledge and contribute to exciting projects. Feel free to check out my repositories and connect with me!
 
+Skills
+Programming Languages: Java, Python, C++
+Database Management: MySQL
 
+#
