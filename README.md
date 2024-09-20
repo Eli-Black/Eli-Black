@@ -10,7 +10,9 @@ I'm currently seeking opportunities to expand my knowledge and contribute to exc
 
 Skills
 Programming Languages: Java, Python, C++, C#
+
 Game Development: Unity
+
 Database Management: MySQL
 
 #
