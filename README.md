@@ -9,7 +9,7 @@ I have a strong interest in working on innovative solutions, particularly in are
 I'm currently seeking opportunities to expand my knowledge and contribute to exciting projects. Feel free to check out my repositories and connect with me!
 
 Skills
-Programming Languages: Java, Python, C++, C#
+Programming Languages: Java, Python, C++, C#,HTML
 
 Game Development: Unity
 
